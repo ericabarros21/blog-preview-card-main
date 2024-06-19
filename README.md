@@ -1,5 +1,4 @@
 Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
-(./myprojetc./desketop.png).
-(./myprojetc./Smartphones.png.png).
+<img src="./myproject./desktop.png.png" alt="">
